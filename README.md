@@ -3,7 +3,8 @@ This repo contains the solution to question 1 and question 2
 
 
 # [ Question No. 1 ]
-## Node is defined as follows :
+
+Node is defined as follows :
 typedef struct Node
 {
 TypeTag type;
@@ -32,6 +33,9 @@ fibo : 2
 
 ## Solution to this question is in question1 folder
 
+
+
+
 # Question No.2: Backend Bitnine Global Inc.
 ▪ Implement the following piecewise recurrence relation in the 3 different ways.
 ▪ Explain the differences (advantages, disadvantages) between the 3.
@@ -42,4 +46,4 @@ Assume that n will be less than or equal to the maximum integer value and non-ne
 write the function(s).
 
 
-## Solution to this question is in question1 folder
+## Solution to this question is in question2 folder
