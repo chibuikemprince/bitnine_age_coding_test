@@ -1,12 +1,11 @@
 Steps to Run this program on Ubuntu
 
-
 # main.c
 - https://github.com/chibuikemprince/bitnine_age_coding_test.git
 
 ## Introduction 
 
-This program implements the piecewise recurrence using looping, recursion and dynamic programming.
+This program implements fibonacci sequence.
 
 ## Prerequisites
 
